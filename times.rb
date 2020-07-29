@@ -3,7 +3,9 @@ def using_times
 	counter = 1
 	loop do
 	  puts phrase
-	  counter +=1
+	  counter += 1
+	  when counter = 7
+	    break
 	 
 end
 
