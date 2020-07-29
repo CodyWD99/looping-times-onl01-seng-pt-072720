@@ -6,8 +6,7 @@ def using_times
 	  counter += 1
 	  when counter = 7
 	    break
-	  end
-	end 
+	 	end 
 	 
 end
 
